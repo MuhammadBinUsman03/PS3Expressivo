@@ -52,6 +52,6 @@ public interface Expression {
     @Override
     public int hashCode();
     
-    // TODO more instance methods
+    // TODO more instance method
     
 }
